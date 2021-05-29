@@ -2,6 +2,8 @@ DOG — Frictionless,deflationary,yield-generating token on the BSC network
 Our goal is to get to the top tier list based on people’s trust. Every marketing and development choices will be decided by the holders
 
 Tokenomics
+
+Total Supply
 1,000,000,000,000,000 DOG
 
 Airdrop — 0,2%
